@@ -8,7 +8,7 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Core", "Core\Core.fsproj", 
 		{3E721011-6CCE-4187-A49A-DAC093DE8E0F} = {3E721011-6CCE-4187-A49A-DAC093DE8E0F}
 	EndProjectSection
 EndProject
-Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FSharp.Common", "..\..\FSharp.Common\FSharp.Common.fsproj", "{3E721011-6CCE-4187-A49A-DAC093DE8E0F}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FSharp.Common", "..\vendor\FSharp.Common\FSharp.Common.fsproj", "{3E721011-6CCE-4187-A49A-DAC093DE8E0F}"
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Interpreter", "Interpreter\Interpreter.fsproj", "{111876E4-B9F0-4B77-89E4-2194EC7BAF88}"
 EndProject

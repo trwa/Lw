@@ -59,7 +59,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\..\..\FSharp.Common\FSharp.Common.fsproj" />
+		<ProjectReference Include="..\..\vendor\FSharp.Common\FSharp.Common.fsproj" />
 		<ProjectReference Include="..\Core\Core.fsproj" />
 	</ItemGroup>
 

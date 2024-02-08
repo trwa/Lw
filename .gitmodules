@@ -1,0 +1,3 @@
+[submodule "FSharp.Common"]
+	path = vendor/FSharp.Common
+	url = https://github.com/alvisespano/FSharp.Common.git
